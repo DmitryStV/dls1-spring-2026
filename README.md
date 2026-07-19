@@ -3,7 +3,7 @@
 ## Описание
 
 Это репозиторий для финального проекта обучения Deep Learning School 1 семестр 2026.
-Тема: CLIP-Guided Domain Adaptation of Image Generators
+**Тема: CLIP-Guided Domain Adaptation of Image Generators**
 
 ## Реалзиация
 
